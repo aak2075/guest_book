@@ -1,0 +1,6 @@
+commons-dbcp.2-xxx.jar
+commons-logging-1.2.jar
+commons-pool2-xxx.jar
+
+위의 세파일을 http://mirror.navercorp.com/apache/ 에서 다운받고
+WEB-INF/lib 폴더에 넣는다.

@@ -1,0 +1,4 @@
+mariadb-java-client-2.2.3.jar
+위 파일을 WebContent/WEB-INF/lib 폴더에 넣어준다.
+이클립스 아래 창의 Data Source Explor 탭을 누른다.
+Database Connections 우클릭 -> new -> MySQL -> url과 user name, password를 적는다.

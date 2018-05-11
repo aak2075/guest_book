@@ -1,0 +1,4 @@
+jstl-1.2.jar
+stamdard-1.1.2.jar
+위 두 파일을 WebContent/WEB-INF/lib 폴더에 넣어준다.
+java/jre/lib/ext 에 넣지 않는다. 넣을경우 충돌이 일어남.
